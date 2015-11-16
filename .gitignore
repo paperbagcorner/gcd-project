@@ -1,0 +1,21 @@
+# History files
+.Rhistory
+.Rapp.history
+
+# Example code in package build process
+*-Ex.R
+
+# RStudio files
+.Rproj.user/
+*.Rproj
+
+# produced vignettes
+vignettes/*.html
+vignettes/*.pdf
+
+# Files that are generated from the scripts.
+date_downloaded.txt
+UCI HAR Dataset
+UCI HAR Dataset.zip
+averages.txt
+*.html
